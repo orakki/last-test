@@ -1,0 +1,3 @@
+Hello!
+Part of Commit 2
+End here
